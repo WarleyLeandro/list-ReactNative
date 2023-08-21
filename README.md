@@ -1,11 +1,15 @@
-# list-ReactNative
+# Project list-ReactNative
+
+<img width="625" alt="Captura de tela 2023-08-20 224209" src="https://github.com/WarleyLeandro/list-ReactNative/assets/55992267/6573fab8-8ca9-42a2-9018-5e4aa423c90b">
+
+
 
 ## How to Use
 
 Clone the project.
 
-- Run the command _npm install_ to install dependencies.
-- Run the command _npx expo start_ to start the application.
+- Run the command `npm install` to install dependencies.
+- Run the command `npx expo start` to start the application.
 
 ## Resources
 
